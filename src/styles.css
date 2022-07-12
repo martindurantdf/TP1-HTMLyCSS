@@ -1,0 +1,29 @@
+body {
+  font-family: tahoma;
+  font-size: 12px;
+  background-color: #a6a6a6;
+}
+.titulo_principal {
+  text-align: center;
+  font-style: normal;
+}
+.texto_parrafo1 {
+  text-align: justify;
+}
+.texto_parrafo2 {
+  text-align: justify;
+}
+.lista_ordenada {
+  list-style-type: lower-alpha;
+}
+.imagen_centrada {
+  text-align: center;
+}
+img {
+  /* Reduzco proporción de imágen ya que queda muy grande en relación con el tamaño del texto*/
+  max-width: 50%;
+  max-height: 50%;
+}
+.negrita {
+  font-weight: bold;
+}
